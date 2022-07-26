@@ -1,11 +1,6 @@
-entities:
-
-players?
-  -lifes
-  -guess
-  -questions w/ answer
-
-game?
-  -new game starts with 2 players and 3 lives each
-
-match?
+Game starts with 3 lifes to each player
+One player will ask a math question
+The other player will answer
+If answered wrong the player will deduct a life
+Then the players will rotate role
+Game over when one of the player has no more lifes left
